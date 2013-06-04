@@ -25,6 +25,8 @@ Usage
     $ rake db:structure:dump               # Dump the database structure to db/structure.sql. Specify another file with DB_STRUCTURE=db/my_structure.sql
     $ rake db:version                      # Retrieves the current schema version number
 
+    $ RAILS_ENV=production rake db:*       # Set environment to production
+
 Links
 -----
 
