@@ -4,7 +4,7 @@ MIGRATIONS
 Install
 -------
 
-    $ git clone git@github.com:foo/migrations.git migrations
+    $ git clone git@github.com:mkempe/migrations.git migrations
     $ cd migrations
     $ bundle
 
