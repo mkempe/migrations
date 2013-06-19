@@ -34,3 +34,17 @@ Links
 
 * [Ruby on Rails Guides: Migrations](http://guides.rubyonrails.org/migrations.html "Ruby on Rails Guides: Migrations")
 * [Problems with postgresql COPY command with Rails on different server](http://stackoverflow.com/questions/6779925/problems-with-postgresql-copy-command-with-rails-on-different-server "Problems with postgresql COPY command with Rails on different server")
+
+Credits
+-------
+
+* [standalone-migrations](https://github.com/thuss/standalone-migrations "Standalone migrations")
+
+License
+-------
+
+MIT License
+
+“Migrations” is released under the MIT license.
+
+See “COPYING”.
