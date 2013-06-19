@@ -1,6 +1,8 @@
 MIGRATIONS
 ==========
 
+Migrate your database with ease.
+
 Install
 -------
 
