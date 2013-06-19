@@ -14,6 +14,6 @@ class CopyUsers < ActiveRecord::Migration
 
     raw_connection.put_copy_end
 
-    while result = raw_connection.get_result do; end # Cery important to do this after a copy
+    while result = raw_connection.get_result do; end # Very important to do this after a copy
   end
 end
